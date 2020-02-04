@@ -4,7 +4,7 @@
 package com.atguigu.git;
 
 /**
- * @author Administrator
+ * @author MAORUN
  *
  */
 public class Apple {
